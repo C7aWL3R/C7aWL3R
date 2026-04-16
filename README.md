@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity Researcher & Database Specialist <br>Focused on the intersection of offensive security, system hardening, and forensic analysis from automating penetration testing workflows to securing critical Oracle infrastructure<br>"Securing the data today to prevent the breach of tomorrow."
+Cybersecurity Researcher & BLUE TEAM <br>Focused on the intersection of offensive security, system hardening, and forensic analysis from automating penetration testing workflows to securing critical infrastructure<br>"Securing the data today to prevent the breach of tomorrow."
 
 
 # 💻 Tech Stack:
